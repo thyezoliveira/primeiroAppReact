@@ -1,0 +1,23 @@
+.card-nota {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(179, 209, 228);
+    border-radius: 5px;
+    border: 1px solid rgb(88, 125, 150);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: 0 0 3px 0px rgb(88, 125, 150);
+}
+
+.card-nota-header {
+    background-color: rgb(88, 125, 150);
+    padding: 5px;
+}
+
+.card-nota-titulo {
+    text-align: center;
+}
+
+.card-nota-texto {
+    padding: 5px;
+}

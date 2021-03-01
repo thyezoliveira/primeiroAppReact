@@ -1,0 +1,10 @@
+.lista-notas {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    background-color: #ddd;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-grow: 2;
+}
